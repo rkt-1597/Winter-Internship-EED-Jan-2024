@@ -1,8 +1,8 @@
-# Hands-on Hardware
+# Winter Internship & Hands-on Hardware Programme
 
 ## Overview
 
-**Hands-on Hardware** is a project from the Electrical Engineering Department at VJTI, aimed at providing students with practical experience in Embedded Systems and Robotics. The project covers essential skills from soldering to coding microcontrollers and working with sensors and motors.
+**Hands-on Hardware** is a programme as a part of Winter Internship, commenced from January 2024, from the Electrical Engineering Department at VJTI, aimed at providing students with practical experience in Embedded Systems and Robotics. The project covers essential skills from soldering to coding microcontrollers and working with sensors and motors.
 
 ## Table of Contents
 
@@ -66,8 +66,9 @@ Contributions are welcome! To contribute:
 3. Commit changes and push to your fork
 4. Open a pull request
 
-##Video Demonstration 
-[Watch the video](assets/pid.mp4)
+## Video Demonstration 
+[Final Tuned Robot](https://drive.google.com/file/d/1fM2FEygWu5VKtcAUPq9qrozEjsIOoP2M/view?usp=sharing)
+[Tuning of Robot](https://drive.google.com/file/d/1fPdqL5VgK2E_bpYqslDFCfQQFaqbqNIS/view?usp=sharing)
 
 ---
 
