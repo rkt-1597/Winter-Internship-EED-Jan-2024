@@ -32,7 +32,7 @@ To begin working with this project, you will need:
 2. Install necessary libraries from the Arduino Library Manager.
 3. Clone this repository:
    ```bash
-   git clone https://github.com/your-repo/hands-on-hardware.git
+   git clone https://github.com/rkt-1597/Winter-Internship-EED-Jan-2024.git
    ```
 4. Connect your microcontroller and upload test sketches to verify setup.
 
