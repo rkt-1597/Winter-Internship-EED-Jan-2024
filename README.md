@@ -67,8 +67,8 @@ Contributions are welcome! To contribute:
 4. Open a pull request
 
 ## Video Demonstration 
-[Final Tuned Robot](https://drive.google.com/file/d/1fM2FEygWu5VKtcAUPq9qrozEjsIOoP2M/view?usp=sharing)
-[Tuning of Robot](https://drive.google.com/file/d/1fPdqL5VgK2E_bpYqslDFCfQQFaqbqNIS/view?usp=sharing)
+- [Final Tuned Robot](https://drive.google.com/file/d/1fM2FEygWu5VKtcAUPq9qrozEjsIOoP2M/view?usp=sharing)
+- [Tuning of Robot](https://drive.google.com/file/d/1fPdqL5VgK2E_bpYqslDFCfQQFaqbqNIS/view?usp=sharing)
 
 ---
 
