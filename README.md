@@ -21,14 +21,14 @@ This project is part of the **Winter Internship January 2024** at VJTI and aims 
 ### Prerequisites
 
 To begin working with this project, you will need:
-- An Arduino Uno or ESP32 microcontroller
+- An Arduino Uno microcontroller
 - A computer with **Arduino IDE** installed
 - Basic electronic components (resistors, LEDs, motors, sensors, etc.)
-- A power supply (5V DC)
+- A power supply 
 
 ### Installation
 
-1. Install **Arduino IDE** from [Arduino's official website](https://www.arduino.cc/en/software).
+1. Install **Arduino IDE**
 2. Install necessary libraries from the Arduino Library Manager.
 3. Clone this repository:
    ```bash
@@ -45,7 +45,7 @@ To begin working with this project, you will need:
 - Ultrasonic Sensor (HC-SR04)
 
 ### Actuators & Motors
-- Servo Motors (MG996R)
+- Servo Motors (SG90)
 
 ## Tasks & Experiments
 
